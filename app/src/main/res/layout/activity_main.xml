@@ -12,6 +12,14 @@
         android:paddingTop="56dp"
         android:paddingLeft="24dp"
         android:paddingRight="24dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Grow skills,Grow career"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -26,8 +34,6 @@
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-
-
 
         <!-- Email Label -->
         <android.support.design.widget.TextInputLayout
